@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&family=Fredoka:wght@300..700&family=Gamja+Flower&family=Moirai+One&family=Raleway+Dots&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&family=Swanky+and+Moo+Moo&display=swap');
+
+* {
+    margin: 0; 
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    padding: 50px;
+    background-color:antiquewhite;
+    font-family: "Gamja Flower";
+}
+
+.rachelMorgan {
+    text-decoration:underline darkred;
+
+
+}
+
+button {
+    padding: 10px;
+    border-radius: 5rem;
+    background-color: goldenrod;
+    font-family: "Gamja Flower";
+}
+
+.frontEndDeveloper {
+    border: dotted darkblue;
+    padding: 15px;
+}
+
+.container {
+    display:flex;
+    gap:30px;
+}
